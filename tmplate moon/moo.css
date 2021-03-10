@@ -1,0 +1,228 @@
+.cash{
+	background-color: #163808;
+	padding-bottom: 27px;
+	}
+.ping{
+		margin-top: 8px;
+	}
+.fa{
+    color : #a0f64b;
+        margin-top: 20px;
+	}
+.lab{
+    color: white;
+    margin-left: 10px;
+	}
+.sub{
+	    position: absolute;
+    width: 100%;
+}
+.ga{
+    color : #a0f64b;
+    margin-top: 35px;
+    margin-bottom: 15px;
+	}
+.navbar{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 3% 100%);
+    padding-left: 100px;
+	}
+.active{
+	color: white!important;
+}
+.trash{
+	background-image: url(images/banner.jpg);
+}
+.tray{
+	padding-top: 200px;
+	color: white;
+}
+.fray{
+	color: #a0f64b;
+}
+.sec{
+	color: white;
+}
+.btnn{
+	margin-bottom: 200px;	
+}
+.about{
+	padding-top: 80px;
+}
+.line{
+	height: 2px;
+    width: 409px;
+}
+.tap{
+	padding-top: 19px;
+	padding-bottom: 42px;
+}
+.sat{
+	padding: 16px 69px 16px 69px;
+    border-radius: 17px;
+}
+.flu{
+	padding-top: 85px;
+}
+.slash{
+	background-color: #163808;
+	text-align: center;
+	color: white;
+	padding-top: 45px;
+	padding-bottom: 14px;
+}
+.see{
+	text-align: center;
+	padding-top: 51px;
+    padding-bottom: 29px;
+}
+.fine{
+	margin-inline: 615px;
+}
+.hash{
+	background-color: #163808;
+	color: white;
+	text-align: center;
+}
+.prod{
+	padding-top: 40px;
+    padding-bottom: 22px;
+}
+.pic{
+	width: 469px
+}
+.user{
+	padding-top: 31px;
+	padding-bottom: 44px;
+}
+.pro{
+	padding: 11px 52px 11px 52px;
+}
+.prods{
+	padding-top: 155px;
+    padding-bottom: 22px;
+}
+.proded{
+	padding-top: 268px;
+    padding-bottom: 22px;
+}
+.apple{
+	background-image: url(images/product_img1.jpg);
+	background-size: cover;
+	padding: 275px 0px 0px 0px;
+}
+.aalu{
+	background-image: url(images/product_img2.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 275px 0px 0px 0px;
+}
+.vegetables{
+	background-image: url(images/product_img3.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 275px 0px 0px 0px;
+}
+.bhalu{
+	background: #276c2d;
+	color: white;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.case{
+	background-image: url(images/product_img4.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 275px 0px 0px 0px;
+}
+.lace{
+	background-image: url(images/product_img5.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 275px 0px 0px 0px;
+}
+.test{
+	color: #0d510c;
+}
+.mcc{
+	padding: 0px;
+	margin: 0px;
+}
+.smile{
+	width: 100%;
+    border: 8px solid #42e35d;
+}
+.hint{
+    padding-top: 128px;
+}
+.shit{
+	padding-left: 54px;
+}
+.handy{
+	padding-top: 20px;
+}
+.candy{
+	background: #27701a;
+    color: white;
+    padding-left: 45px;
+    padding-top: 62px;
+    padding-bottom: 61px;
+}
+.poly{
+	padding-top: 106px;
+    margin-left: 162px;
+    background: #4fac3f;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 98% 100%);
+}
+.cashless{
+	background-color: #163808;
+	padding-bottom: 27px;
+	}
+.sit{
+	color: white;
+	padding-left: 13px;
+	padding-top: 5px;
+	font-family: -webkit-pictograph;
+	}
+.fish{
+	color: white;
+	padding-left: 24px;
+	font-family: -webkit-pictograph;
+	}
+.fill{
+	  height: 3px!important;
+	  background: #42e35d; 
+	  margin-right: 66px;
+}	
+.kill{
+	height: 3px!important;
+	background: #42e35d;
+	margin-right: 102px;
+}
+.fat{
+	color: white;
+	font-family: -webkit-pictograph;
+	list-style: none;
+	padding-bottom: 15px;
+}	
+.shape{
+	color: white;
+	font-family: -webkit-pictograph;
+}
+.feet{
+	padding-top: 84px;
+    padding-bottom: 76px;
+}
+.fm{
+	width: 246px;
+}
+.bt{
+	margin-top: 19px;
+	padding: 8px 24px 8px 24px;
+	border-radius: 10px;
+}										
+.steno{
+	color: white;
+	padding-left: 24px;
+}         
